@@ -47,3 +47,27 @@
     - Number of New Deaths Decreased as the number of Vaccine Doses Administered increased (Mainly from June 2022)
     - But there was an increase in the number of deaths in April 2022. That was due to a delay in reporting of deaths from India, and in the Africa Region.
     
+## Correlations
+
+
+
+
+<a href="https://github.com/hamid-rahbar/Covid-19PandemicAnalysisPowerBI/blob/main/P5.Correlation1.png"><img align="left" width="auto" height="auto" src="https://github.com/hamid-rahbar/Covid-19PandemicAnalysisPowerBI/blob/main/P5.Correlation1.png"></a>
+
+.
+<a href="https://github.com/hamid-rahbar/Covid-19PandemicAnalysisPowerBI/blob/main/P6..Correlation2.png"><img align="left" width="auto" height="auto" src="https://github.com/hamid-rahbar/Covid-19PandemicAnalysisPowerBI/blob/main/P6..Correlation2.png"></a>
+
+.
+<a href="https://github.com/hamid-rahbar/Covid-19PandemicAnalysisPowerBI/blob/main/P.7.Correlation3.png"><img align="left" width="auto" height="auto" src="https://github.com/hamid-rahbar/Covid-19PandemicAnalysisPowerBI/blob/main/P.7.Correlation3.png"></a>
+
+.
+
+# Key Findings
+
+- Coronavirus disease (COVID-19) has affected almost all of the nations around the world regardless of the economic situation and the healthcare system of the countries. 
+
+- There was no correlation in the data between social, economic and health variables such as age, life expectancy, GPD, number of hospital beds, cardiovascular disease, and diabetic disease, and the death of patients' due to COVID-19.
+
+- The number of vaccine doses administered has a correlation with the number of patients' death due to COVID-19.
+
+- Africa and then South America are the two continents that mostly have been affected by COVID-19 respectively. 
